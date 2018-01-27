@@ -16,10 +16,10 @@ libraries used:
 <h3>Results</h3>
 
 
-![](image_one.png)
+![](imge_one.png)
 
-![](image_two.png)
+![](imge_two.png)
 
-![](image_three.png)
+![](imge_three.png)
 
 
