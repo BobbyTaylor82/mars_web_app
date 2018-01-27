@@ -1,1 +1,25 @@
-# mars_web_app
+<h1>Mars Web Application</h1>
+
+![](mission.jpg)
+
+Instructions: In this project, the goal was to build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+
+libraries used:
+<ul>
+<li>Splinter</li>
+<li>pandas</li> 
+<li>HTML & CSS</li>
+<li>MongoDB</li>
+<li>Flask</li>
+</ul>
+
+<h3>Results</h3>
+
+
+![](image_one.jpg)
+
+![](image_two.jpg)
+
+![](image_three.jpg)
+
+
